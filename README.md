@@ -25,7 +25,8 @@ A Python-based GUI application that visualizes and compares popular disk schedul
 3. Select a scheduling algorithm.
 4. Click Run Algorithm.
 5. View the servicing sequence, total movement, and graphical visualization.
-   
+
+   ![image alt](https://github.com/rumanfatima69/Disk-Scheduling-Visualizer/blob/7cfeb6b68622842321cba0c6bf4e7152794e7e29/Interface.png)
 **Input Validation**
 
 The application validates user input before executing the selected algorithm.
