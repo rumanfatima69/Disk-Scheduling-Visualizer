@@ -37,6 +37,8 @@ The application validates user input before executing the selected algorithm.
 - Head position must be a valid integer.
 - Empty input fields are not accepted.
   
+  ![image alt](https://github.com/rumanfatima69/Disk-Scheduling-Visualizer/blob/f2e23f7bbcfaa691ee187ead05a5a5dd30740083/Error%20case.png)
+  
 _- Invalid or non-numeric values will trigger an error message instead of running the algorithm._
 
 **Educational Purpose**
